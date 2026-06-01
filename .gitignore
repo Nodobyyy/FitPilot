@@ -1,0 +1,11 @@
+.DS_Store
+.vscode/
+.idea/
+*.log
+Thumbs.db
+*.docx
+photo/
+fitpilot_data.enc
+patch.py
+__pycache__/
+*.pptx

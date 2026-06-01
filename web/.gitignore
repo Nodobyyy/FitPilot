@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 构建输出
+dist/
+build/
+
+# 日志
+*.log
+logs/
+
+# Mock数据（本地存储）
+# 不提交本地测试数据
